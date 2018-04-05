@@ -24,6 +24,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Log.d("test", "Git Manual");
         Log.d("test", "It's Hostfix Branch");
         Log.d("test", "It's Master Branch");
+        Log.d("test", "ddo");
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
